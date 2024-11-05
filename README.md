@@ -1,5 +1,5 @@
 # ASSI No : 3 
-## By me ( (meer)[https://github.com/MirMurtaz] )
+## By me ([meer](https://github.com/MirMurtaz))      
 ## sub : pf ( C ) 
 ## sir : OWAIS REHMANI 
 
